@@ -1,5 +1,5 @@
 # fruitshop-system
-（1）程序的前台部分采用Android代码实现<br/>
+（1）程序的前台部分采基于Android实现<br/>
 （2）程序的开发环境是 Android studio和Eclipse<br/>
 （3）后台采用SSM框架的方式实现<br/>
 （4）服务运行在Tomcat服务器上<br/>
